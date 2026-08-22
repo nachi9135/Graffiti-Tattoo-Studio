@@ -952,7 +952,7 @@ function InstagramSection({
   instagramLoading,
   instagramError,
 }) {
-  const instagramUrl = "https://www.instagram.com/graffitie_tattoo_studio/";
+  const instagramUrl = "https://www.instagram.com/graffiti_tattoo_studio/";
 
   return (
     <section
@@ -1965,7 +1965,7 @@ const languages = ["English", "Hindi", "Marathi"];
       setInstagramLoading(true);
       setInstagramError(false);
 
-      const response = await fetch("http://localhost:5000/api/instagram");
+     const response = await fetch("/api/instagram");
 
       if (!response.ok) {
         throw new Error("Failed to fetch Instagram posts");
