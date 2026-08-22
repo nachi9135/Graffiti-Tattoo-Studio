@@ -1120,7 +1120,7 @@ function InstagramSection({
             rel="noopener noreferrer"
             className="mt-4 inline-block text-sm font-semibold uppercase tracking-[0.2em] text-[#c9a24d] transition hover:text-[#e0b85c]"
           >
-            @graffitie_tattoo_studio →
+            @graffiti_tattoo_studio →
           </a>
 
         </div>

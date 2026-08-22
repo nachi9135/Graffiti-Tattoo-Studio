@@ -3,15 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
- "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "lint": "eslint .",
-  "preview": "vite preview",
-  "server": "node server/server.cjs",
-  "server:dev": "nodemon server/server.cjs"
-},
-  
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "server": "node server/server.cjs",
+    "server:dev": "nodemon server/server.cjs"
+  },
   "dependencies": {
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
@@ -32,7 +31,4 @@
     "nodemon": "^3.1.14",
     "vite": "^8.2.0"
   }
-  
 }
-
-
