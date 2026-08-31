@@ -2004,17 +2004,17 @@ const languages = ["English", "Hindi", "Marathi"];
 
       {/* Phone */}
       <a
-        href="tel:+919006289005"
-        className="flex items-center gap-2 text-sm transition hover:text-[#c9a24d]"
-      >
-        <span className="font-semibold uppercase tracking-wider text-[#c9a24d]">
-          Call Us On
-        </span>
+  href="tel:+919006289005"
+  className="flex items-center gap-2 text-sm transition hover:text-[#c9a24d]"
+>
+  <span className="font-semibold uppercase tracking-wider text-[#c9a24d]">
+    Call Us On
+  </span>
 
-        <span className="font-medium text-white">
-          +919006289005
-        </span>
-      </a>
+  <span className="font-medium text-white">
+    +91 9006289005
+  </span>
+</a>
 
       {/* Divider */}
       <span className="hidden h-5 w-px bg-white/10 sm:block" />
@@ -2259,7 +2259,7 @@ const languages = ["English", "Hindi", "Marathi"];
               href="tel:+919006289005"
               className="block text-sm text-gray-400 transition hover:text-[#c9a24d]"
             >
-              +919006289005
+              +91 9006289005
             </a>
 
             <a
