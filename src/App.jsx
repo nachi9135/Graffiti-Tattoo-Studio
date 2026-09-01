@@ -2012,7 +2012,7 @@ const languages = ["English", "Hindi", "Marathi"];
   </span>
 
   <span className="font-medium text-white">
-     09006289005
+     +919006289005
   </span>
 </a>
 
@@ -2259,7 +2259,7 @@ const languages = ["English", "Hindi", "Marathi"];
               href="tel:+919006289005"
               className="block text-sm text-gray-400 transition hover:text-[#c9a24d]"
             >
-               09006289005
+               +919006289005
             </a>
 
             <a
