@@ -2889,27 +2889,48 @@ const languages = ["English", "Hindi", "Marathi"];
 
 
       {/* WhatsApp */}
-      <div className="border-b border-white/10 pb-8">
+<div className="border-b border-white/10 pb-8">
 
-        <p className="mb-3 text-xs uppercase tracking-[0.25em] text-[#c9a24d]">
-          WhatsApp
-        </p>
+  <p className="mb-3 text-xs uppercase tracking-[0.25em] text-[#c9a24d]">
+    WhatsApp
+  </p>
 
-        <a
-          href="#booking"
-          className="text-lg font-medium text-white transition hover:text-[#c9a24d]"
-        >
-          {t.contact.whatsapp} →
-        </a>
+  <a
+    href="#booking"
+    className="text-lg font-medium text-white transition hover:text-[#c9a24d]"
+  >
+    {t.contact.whatsapp} →
+  </a>
 
-        <p className="mt-2 text-sm text-gray-500">
-          {t.contact.whatsappDescription}
-        </p>
+  <p className="mt-2 text-sm text-gray-500">
+    {t.contact.whatsappDescription}
+  </p>
 
-      </div>
+</div>
 
 
-     {/* Opening Hours */}
+{/* Phone */}
+<div className="border-b border-white/10 pb-8">
+
+  <p className="mb-3 text-xs uppercase tracking-[0.25em] text-[#c9a24d]">
+    Phone
+  </p>
+
+  <a
+    href="tel:+919006289005"
+    className="text-lg font-medium text-white transition hover:text-[#c9a24d]"
+  >
+    +919006289005
+  </a>
+
+  <p className="mt-2 text-sm text-gray-500">
+    Call us directly for appointments and enquiries.
+  </p>
+
+</div>
+
+
+{/* Opening Hours */}
 <div className="border-b border-white/10 pb-8">
 
   <p className="mb-3 text-xs uppercase tracking-[0.25em] text-[#c9a24d]">
