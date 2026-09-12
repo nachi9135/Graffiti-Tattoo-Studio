@@ -747,9 +747,7 @@ Thank you.
             Select preferred time
           </option>
 
-          <option value="10:00 AM">
-            10:00 AM
-          </option>
+          
 
           <option value="11:00 AM">
             11:00 AM
@@ -2884,6 +2882,12 @@ const languages = ["English", "Hindi", "Marathi"];
           <br />
           Hinjawadi, Pune, Maharashtra 411057
         </p>
+        <a
+  href="tel:+919006289005"
+  className="mt-4 inline-block text-sm font-medium text-white transition hover:text-[#c9a24d]"
+>
+  +91 9006289005
+  </a>
 
       </div>
 
