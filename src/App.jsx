@@ -166,7 +166,7 @@ Preferred Time: ${formData.time}
 Thank you.
 `.trim();
 
-    const whatsappUrl = `https://wa.me/${9006289005}?text=${encodeURIComponent(
+    const whatsappUrl = `https://wa.me/${919006289005}?text=${encodeURIComponent(
       message
     )}`;
 
