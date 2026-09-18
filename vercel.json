@@ -4,6 +4,11 @@
       "source": "/gallery.html",
       "destination": "/#gallery",
       "permanent": true
+    },
+    {
+      "source": "/gallery.php",
+      "destination": "/#gallery",
+      "permanent": true
     }
   ]
 }
